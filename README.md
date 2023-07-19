@@ -45,7 +45,7 @@ You can refer to these prefabs and the demo scene ```TooltipSystemScene.unity```
   * ```Tooltip Offset``` can be set for a custom offset position for the tooltip to be rendered within the canvas hierarchy. This will depend on your UI setup, but will usually never be 0,0,0. Refer to the demo scene for an example.
 
 ## Ideas For Extending:
-1. ```TooltipView.cs``` could be extended to take object data from a component, such as rarity, status, level, stat vs stat calcs, etc. and added to theText string instead of having these be static like in the example.
+1. ```TooltipView.cs``` could be extended to take object data from a component, such as rarity, status, level, stat vs stat calcs, etc. and added to the Text string instead of having these be static like in the example.
 2. Colors could be applied to the text based on object data from a component.
 3. Fork the repo, add a feature you think is cool and make a pull request! 😉
 
