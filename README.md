@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Unity-Tooltip-System
+# Unity Tooltip System
 A simple Unity implementation for tooltips UI components.
 
 </div>
